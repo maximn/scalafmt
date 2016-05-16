@@ -1,5 +1,5 @@
 80 columns                                                                     |
-<<< SKIP square bracket
+<<< ONLY square bracket
 function[A, B]
 >>>
 function[ A, B ]

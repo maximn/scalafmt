@@ -1,0 +1,5 @@
+40 columns                              |
+<<< Spaces in paretheses
+function(a, b, c)
+>>>
+function( a, b, c )
